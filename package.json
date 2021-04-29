@@ -2,7 +2,7 @@
   "name": "template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hyeongsan.github.io/san_tube/",
+  "homepage": "https://hyeongsan.github.io/sanitube/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -14,13 +14,14 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "deploy" : "gh-pages",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
-    "cleanup": "rm -rf node_modules/.cache/gh-pages"
+    "deploy": "gh-pages -d build"    
   },
   "eslintConfig": {
     "extends": [
