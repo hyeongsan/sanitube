@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/san_tube/static/css/main.b20333b5.chunk.css",
-    "main.js": "/san_tube/static/js/main.b2081f6f.chunk.js",
-    "main.js.map": "/san_tube/static/js/main.b2081f6f.chunk.js.map",
-    "runtime-main.js": "/san_tube/static/js/runtime-main.d44eeeff.js",
-    "runtime-main.js.map": "/san_tube/static/js/runtime-main.d44eeeff.js.map",
-    "static/js/2.d5939ca9.chunk.js": "/san_tube/static/js/2.d5939ca9.chunk.js",
-    "static/js/2.d5939ca9.chunk.js.map": "/san_tube/static/js/2.d5939ca9.chunk.js.map",
+    "main.css": "/san_tube/static/css/main.3f1319f1.chunk.css",
+    "main.js": "/san_tube/static/js/main.0a98f335.chunk.js",
+    "main.js.map": "/san_tube/static/js/main.0a98f335.chunk.js.map",
+    "runtime-main.js": "/san_tube/static/js/runtime-main.68b0fe96.js",
+    "runtime-main.js.map": "/san_tube/static/js/runtime-main.68b0fe96.js.map",
+    "static/js/2.86480ccc.chunk.js": "/san_tube/static/js/2.86480ccc.chunk.js",
+    "static/js/2.86480ccc.chunk.js.map": "/san_tube/static/js/2.86480ccc.chunk.js.map",
     "index.html": "/san_tube/index.html",
-    "static/css/main.b20333b5.chunk.css.map": "/san_tube/static/css/main.b20333b5.chunk.css.map",
-    "static/js/2.d5939ca9.chunk.js.LICENSE.txt": "/san_tube/static/js/2.d5939ca9.chunk.js.LICENSE.txt"
+    "static/css/main.3f1319f1.chunk.css.map": "/san_tube/static/css/main.3f1319f1.chunk.css.map",
+    "static/js/2.86480ccc.chunk.js.LICENSE.txt": "/san_tube/static/js/2.86480ccc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d44eeeff.js",
-    "static/js/2.d5939ca9.chunk.js",
-    "static/css/main.b20333b5.chunk.css",
-    "static/js/main.b2081f6f.chunk.js"
+    "static/js/runtime-main.68b0fe96.js",
+    "static/js/2.86480ccc.chunk.js",
+    "static/css/main.3f1319f1.chunk.css",
+    "static/js/main.0a98f335.chunk.js"
   ]
 }
