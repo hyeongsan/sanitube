@@ -11,7 +11,7 @@ const Searchheader = props => {
     <img className={styles.img} src={logo} alt="logo"/>
     <h1 className={styles.title}>Santube</h1>
     </div>
-    <input className={styles.input} type="search" paceholder="Search..."/>
+    <input className={styles.input} type="search" placeholder="Search..."/>
     <button className={styles.button} type="submit">
         <img className={styles.buttonImg} src={search} alt="search"/>
     </button>
