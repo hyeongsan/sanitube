@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sanitube/static/css/main.715c6282.chunk.css",
-    "main.js": "/sanitube/static/js/main.0a98f335.chunk.js",
-    "main.js.map": "/sanitube/static/js/main.0a98f335.chunk.js.map",
+    "main.css": "/sanitube/static/css/main.26e1040f.chunk.css",
+    "main.js": "/sanitube/static/js/main.b803fcf1.chunk.js",
+    "main.js.map": "/sanitube/static/js/main.b803fcf1.chunk.js.map",
     "runtime-main.js": "/sanitube/static/js/runtime-main.70a59710.js",
     "runtime-main.js.map": "/sanitube/static/js/runtime-main.70a59710.js.map",
-    "static/js/2.86480ccc.chunk.js": "/sanitube/static/js/2.86480ccc.chunk.js",
-    "static/js/2.86480ccc.chunk.js.map": "/sanitube/static/js/2.86480ccc.chunk.js.map",
+    "static/js/2.5fdfea6e.chunk.js": "/sanitube/static/js/2.5fdfea6e.chunk.js",
+    "static/js/2.5fdfea6e.chunk.js.map": "/sanitube/static/js/2.5fdfea6e.chunk.js.map",
     "index.html": "/sanitube/index.html",
-    "static/css/main.715c6282.chunk.css.map": "/sanitube/static/css/main.715c6282.chunk.css.map",
-    "static/js/2.86480ccc.chunk.js.LICENSE.txt": "/sanitube/static/js/2.86480ccc.chunk.js.LICENSE.txt"
+    "static/css/main.26e1040f.chunk.css.map": "/sanitube/static/css/main.26e1040f.chunk.css.map",
+    "static/js/2.5fdfea6e.chunk.js.LICENSE.txt": "/sanitube/static/js/2.5fdfea6e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.70a59710.js",
-    "static/js/2.86480ccc.chunk.js",
-    "static/css/main.715c6282.chunk.css",
-    "static/js/main.0a98f335.chunk.js"
+    "static/js/2.5fdfea6e.chunk.js",
+    "static/css/main.26e1040f.chunk.css",
+    "static/js/main.b803fcf1.chunk.js"
   ]
 }
